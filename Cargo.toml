@@ -1,0 +1,12 @@
+[package]
+name = "apscores"
+version = "0.1.0"
+authors = ["Jason Chen <jason+dev@ga.jcor.me>"]
+
+[dependencies]
+hyper = "0.9.9"
+iron = "*"
+kuchiki = "*"
+router = "*"
+url = "*"
+urlencoded = "*"
